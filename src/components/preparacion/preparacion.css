@@ -1,0 +1,48 @@
+.contenido-texto{
+    position: relative;
+    width: 800px;
+    margin: 120px;
+    left: 130px;
+    bottom: 15px;
+}
+
+h1{
+    line-height: 70px;
+    font-weight: 500;
+    font-size: 60px;
+    font-style: normal;
+}
+
+.contenido-texto p{
+    width: 757px;
+    height: 70px;
+    font-size: 20px;
+    font-style: normal;
+    line-height: 21px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+
+.imagen{
+    position: absolute;
+    width: 320px;
+    right: 300px;
+    top: 1920px;
+    cursor: pointer;
+    border-radius: 3%;
+}
+
+.imagen:hover{
+    box-shadow: 5px 5px 7px #333;
+}
+
+b{
+    color: rgb(5, 164, 199);
+}
+
+@media (width-max:1629){
+    .imagen{
+        left:100px;
+    }    
+}

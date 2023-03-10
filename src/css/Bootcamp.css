@@ -1,0 +1,36 @@
+.html, body{
+    font-size: 18px;
+    background-color: azure;
+}
+
+.contenedor-bootcamp{
+    width: 1170px;
+    height: 370px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+    box-shadow: 0 3px 13px 1px rgb(0,0,0 / 9%);
+}
+
+.imagen-bootcamp{
+    width: auto;
+    height: 100%;
+}
+
+.contenedor-texto-bootcamp{
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px;
+    font-family: Lato, 'Times New Roman', 'Times','serif';
+    font-weight: 400;
+    line-height: 1.1rem;
+}
+
+.titulo-bootcamp{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 25px 0;
+}

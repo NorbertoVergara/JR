@@ -1,0 +1,97 @@
+.navbar {
+  position: fixed;
+  z-index: 9999;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f0f8ff48;
+  color: #333;
+  padding: 10px;
+}
+
+.navbar__logo a{
+  text-decoration: none;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+  color: #333;
+}
+
+.navbar__logo img {
+  height: 40px;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.navbar__buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navbar__button {
+  background-color: #f0f8ff47;
+  color: #333;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  font-size: 18px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  transition: 0.4s ease 0s;
+}
+
+.titulo{
+  background: black;
+  color: white;
+}
+
+.navbar__button:hover{
+  color: white;
+  font-size: 17px;
+  background: rgb(3, 95, 165);
+}
+
+.navbar__login {
+  background: linear-gradient(to bottom right, rgb(0, 153, 255), rgb(0, 0, 0));
+  color: #fff;
+}
+
+.navbar__login:hover{
+  background-color: #000000;
+  color: white;
+}
+
+.navbar__register {
+  background: linear-gradient(to bottom right, rgb(0, 153, 255), rgb(0, 0, 0));
+  color: #fff;
+}
+
+.navbar__register:hover{
+  background-color: #000;
+  color: white;
+}
+
+.navbar__logo-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar__logo-img {
+  max-height: 50px;
+}
+
+.navbar__logo-title {
+  margin-left: 10px;
+
+}
+
+
+/* prueba menu */
+
+.Boton {
+  @media(min-width: 768px){
+    display: none;
+  }
+}

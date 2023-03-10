@@ -1,0 +1,41 @@
+{
+    "cursos":[
+        {
+            "imagen":"https://digibootcamp.co/images/class/bootcamp_imagen.png",
+            "alt":"Imagen 1",
+            "titulo":"Microsoft power BI"
+        },        {
+            "imagen":"https://digibootcamp.co/images/class/bootcamp_imagen.png",
+            "alt":"Imagen 2",
+            "titulo":"Metodologias agiles"
+        },        {
+            "imagen":"https://digibootcamp.co/images/bootcamps/icons/iconociber.png",
+            "alt":"Imagen 3",
+            "titulo":"Ciberseguridad con Azure"
+        },        {
+            "imagen":"https://digibootcamp.co/images/bootcamps/icons/iconociber.png",
+            "alt":"Imagen 4",
+            "titulo":"Civerseguridad"
+        },        {
+            "imagen":"https://digibootcamp.co/images/bootcamps/icons/iconopython.png",
+            "alt":"Imagen 5",
+            "titulo":"Analitica de datos"
+        },        {
+            "imagen":"https://digibootcamp.co/images/bootcamps/icons/iconopython.png",
+            "alt":"Imagen 6",
+            "titulo":"Ciencia-Analitica de datos"
+        },        {
+            "imagen":"https://digibootcamp.co/images/class/bootcamp_imagen.png",
+            "alt":"Imagen 7",
+            "titulo":"Fundamentos de programacion"
+        },        {
+            "imagen":"https://digibootcamp.co/images/bootcamps/icons/iconopython.png",
+            "alt":"Imagen 8",
+            "titulo":"Inteligencia artificial"
+        },        {
+            "imagen":"https://digibootcamp.co/images/bootcamps/icons/iconoweb.png",
+            "alt":"Imagen 9",
+            "titulo":"Fron End"
+        }      
+    ]
+}

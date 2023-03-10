@@ -1,0 +1,48 @@
+.boletin{
+    width: 900px;
+    text-align: center;
+    margin: 50px 50px;
+    padding-left: 30em;  
+}
+
+.boletin-contenido h3{
+    font-size: 30px;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+    text-align: center;
+    line-height: 24px;
+    margin-bottom: 22px;
+    gap: 15px;
+}
+.content{
+    line-height: 35px ;
+}
+input{
+    border-color: rgb(75, 75, 75);
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    color: black;
+    font-size: 15px;
+}
+
+button {
+    background-color: #0088ff47;
+    color: #333;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+button:hover{
+    color: #0074D9;
+    font-size: 17px;
+}

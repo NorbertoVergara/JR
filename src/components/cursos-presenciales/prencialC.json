@@ -1,0 +1,37 @@
+{
+    "cursosP":[
+        {
+            "imagen":"https://cdn.glitch.global/84aabaa1-c9d9-4251-8408-1be2fa5d5a55/IMG_0898.jpeg?v=1678457847446",
+            "alt":"Imagen power BI",
+            "titulos":"Microsoft power BI"
+        },          {
+            "imagen":"https://cdn.glitch.global/84aabaa1-c9d9-4251-8408-1be2fa5d5a55/IMG_0891.jpeg?v=1678457850271",
+            "alt":"Imagen power BI",
+            "titulos":"Microsoft power BI"
+        },          {
+            "imagen":"https://cdn.glitch.global/84aabaa1-c9d9-4251-8408-1be2fa5d5a55/IMG_0863.jpeg?v=1678457854062",
+            "alt":"Imagen power BI",
+            "titulos":"Microsoft power BI"
+        },          {
+            "imagen":"https://cdn.glitch.global/84aabaa1-c9d9-4251-8408-1be2fa5d5a55/IMG_0846.jpeg?v=1678457857785",
+            "alt":"Imagen power BI",
+            "titulos":"Microsoft power BI"
+        },          {
+            "imagen":"https://cdn.glitch.global/84aabaa1-c9d9-4251-8408-1be2fa5d5a55/WhatsApp%20Image%202022-12-11%20at%2012.20.43%20PM.jpeg?v=1678458043913",
+            "alt":"Imagen de habilidades agiles",
+            "titulos":"Habilidades agiles"
+        },          {
+            "imagen":"https://cdn.glitch.global/84aabaa1-c9d9-4251-8408-1be2fa5d5a55/WhatsApp%20Image%202022-12-11%20at%2012.20.42%20PM%20(4).jpeg?v=1678458044327",
+            "alt":"Imagen de habilidades agiles",
+            "titulos":"Habilidades agiles"
+        },          {
+            "imagen":"https://cdn.glitch.global/84aabaa1-c9d9-4251-8408-1be2fa5d5a55/WhatsApp%20Image%202022-12-05%20at%2012.57.50%20PM.jpeg?v=1678458044707",
+            "alt":"Imagen de habilidades agiles",
+            "titulos":"Habilidades agiles"
+        },          {
+            "imagen":"https://cdn.glitch.global/84aabaa1-c9d9-4251-8408-1be2fa5d5a55/WhatsApp%20Image%202022-12-05%20at%2012.41.03%20PM%20(1).jpeg?v=1678458045838",
+            "alt":"Imagen de habilidades agiles",
+            "titulos":"Habilidades agiles"
+        }
+    ]
+}

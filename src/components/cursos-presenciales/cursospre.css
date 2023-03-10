@@ -1,0 +1,44 @@
+/* Estilos base */
+.cursosPresenciales-contenedor{
+    width: 100%;
+    max-width: 1500px;
+    display:flex;
+    flex-wrap: wrap ;
+    justify-content:center;
+    margin:auto;
+}
+.cursosPresenciales-contenedor .cursosP{
+    width: 310px;
+    height: 240px;
+    margin: 15px;
+    border-radius:8px;
+    box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+    overflow: hidden;
+    background: linear-gradient(to bottom right, rgb(0, 153, 255), rgb(5, 97, 42));
+    color: white;
+    margin: 20px auto;
+    text-align: center;
+    transition: all .25s;
+}
+
+.cursosPresenciales-contenedor .cursosP img {
+  width: 100%;
+  height: auto;
+}
+
+/* Estilos para pantallas más pequeñas */
+@media (max-width: 768px) {
+  .cursosPresenciales-contenedor {
+    flex-direction: column;
+    align-items: center;
+  }
+  .cursosPresenciales-contenedor .cursosP {
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+  }
+  .cursosPresenciales-contenedor .cursosP img {
+    width: 100%;
+    height: auto;
+  }
+}

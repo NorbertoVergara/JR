@@ -1,0 +1,63 @@
+.tres-tarjetas {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 50px;
+  }
+
+  .tarjeta {
+    width: calc(33.33% - 20px);
+    box-sizing: border-box;
+    padding: 25px;
+    border: 2px solid #0394a1c4;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+.tarjeta:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 7px #333;
+  }
+  
+  .tarjeta img {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .tarjeta h3 {
+    color: rgb(7, 115, 148);
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .tarjeta p {
+    font-size: 1rem;
+  }
+
+@media(max-width:800px){
+  .tres-tarjetas{
+    display: block;
+  }
+  .tarjeta{
+    width: auto;
+  }
+}
+
+@media(max-width: 1337px){
+  .tres-tarjetas{
+    width: 95em;;
+  }
+}
+
+@media(max-width: 1024px){
+  .tres-tarjetas{
+    width: 95em;;
+  }
+}
+
+@media(max-width: 375px){
+  .tres-tarjetas{
+    margin:100px;
+    width:1300px;
+    font-size:120px;
+  }
+}

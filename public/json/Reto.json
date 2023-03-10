@@ -1,0 +1,27 @@
+[
+    
+    {
+    "id":"2",
+    "img":"est1.png",
+    "alt":"imagen estadistica 1",
+    "contenido":"3531",
+    "titulo":"DIGICAMPISTAS FORMADOS"
+    },
+    {"id":"3",
+    "img":"est2.png",
+    "alt":"imagen estadistica 2",
+    "contenido":"925",
+    "titulo":"CERTIFICADOS"},
+
+    {"id":"4",
+    "img":"est3.png",
+    "alt":"imagen estadistica 3",
+    "contenido":"15344",
+    "titulo":"LINEAS DE CODIGO"},
+
+    {"id":"5",
+    "img":"est4.png",
+    "alt":"imagen estadistica 4",
+    "contenido":"6",
+    "titulo":"BOOTCAMPS"}
+]
